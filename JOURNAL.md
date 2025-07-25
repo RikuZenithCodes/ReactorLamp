@@ -12,4 +12,6 @@ Since I have very limited knowledge of how to use Kicad and don't have footprint
 <img width="1404" height="1059" alt="lampv1" src="https://github.com/user-attachments/assets/964cf000-7eb4-491b-ba7f-d6d42013315b" />
 As you can see when I first wired this I had only one button and I figured that I should add another one to add more features to my lamp so I added another button. (I also cleaned up the wiring for it too because one of my friends told to me)
 <img width="1477" height="1055" alt="lampv2" src="https://github.com/user-attachments/assets/d7a72c5f-6160-4e1d-9d31-924e54883689" />
-
+Then I tried simply turning on my neopixel and it wasn't working so I spent the next hour thinking... Just for it to be I wired the capcaitor completely wrong. So I rewired it.
+<img width="1475" height="997" alt="lampv4" src="https://github.com/user-attachments/assets/a076e6f0-1134-4f66-b240-37b3ea76f88a" />
+I after the capcaitor incident I decided to give myself a nights sleep.
