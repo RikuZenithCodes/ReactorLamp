@@ -6,3 +6,10 @@ created_at: "2024-07-21"
 ---
 
 # Total Time Spent: 15 hours
+
+# June 21st
+Since I have very limited knowledge of how to use Kicad and don't have footprints or the ability to wire at a high level I decided to use Tinkercad because I at least have a little bit of experience with it. The first day I used my time to decide what parts I want to use and what they should do.
+<img width="1404" height="1059" alt="lampv1" src="https://github.com/user-attachments/assets/964cf000-7eb4-491b-ba7f-d6d42013315b" />
+As you can see when I first wired this I had only one button and I figured that I should add another one to add more features to my lamp so I added another button. (I also cleaned up the wiring for it too because one of my friends told to me)
+<img width="1477" height="1055" alt="lampv2" src="https://github.com/user-attachments/assets/d7a72c5f-6160-4e1d-9d31-924e54883689" />
+
