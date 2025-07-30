@@ -7,7 +7,7 @@ Why? At first I wanted to make a iron man reactor that worked as a portable char
 <img width="1431" height="866" alt="colourbox" src="https://github.com/user-attachments/assets/eece40a8-063a-499f-b576-afca290d4437" />
 
 # Wiring
-<img width="1475" height="997" alt="lampv4" src="https://github.com/user-attachments/assets/ed22570b-71db-4722-a120-39d974b06758" />
+<img width="1768" height="1134" alt="lampv5" src="https://github.com/user-attachments/assets/93147b26-7a46-4f6a-ac37-ead802da9aa7" />
 
 # Bom
 | Item Name          | Price (USD) | Quantity | Total  | Link                                                                                                                        |
