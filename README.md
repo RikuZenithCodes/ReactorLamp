@@ -19,6 +19,7 @@ Why? At first I wanted to make a iron man reactor that worked as a portable char
 | Resistors          | $4.33       | 1        | $4.33  | [Buy](https://www.aliexpress.com/item/1005009541152189.html)                                                                |
 | Capacitor          | $1.18       | 1        | $1.18  | [Buy](https://www.aliexpress.com/item/1005002524973878.html)                                                                |
 | LCD screen 16x2    | $1.18       | 1        | $1.18  | [Buy](https://www.aliexpress.com/item/1005007531187322.html)                                                                |
-| ADAFruitLED        | $21.95       | 1        | $9.95  | [Buy](https://www.amazon.ca/NeoPixel-LED-Ring-Integrated-driver/dp/B00RVZSTZK/)                                             |
+| ADAFruitLED        | $21.95      | 1        | $9.95  | [Buy](https://www.amazon.ca/NeoPixel-LED-Ring-Integrated-driver/dp/B00RVZSTZK/)                                             |
 | wires              | $2.06       | 1        | $2.06  | [Buy](https://www.aliexpress.com/item/1005003219096948.html)                                                                |
 | breadboard         | $1.62       | 1        | $1.62  | [Buy](https://www.aliexpress.com/item/1005009458511526.html)                                                                |
+| **Final Total**    |             |          | **$53.71** |                                                                                                                             |
