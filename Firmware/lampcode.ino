@@ -2,14 +2,16 @@
 #include <LiquidCrystal_I2C.h>
 
 #define NEOPIXEL_PIN 6
+#define SINGLE_LED_PIN 5
 #define NUMPIXELS 16
-
 #define BUTTON_POWER 2
 #define BUTTON_COLOR 4
 #define POT_PIN A0
 
 Adafruit_NeoPixel ring(NUMPIXELS, NEOPIXEL_PIN, NEO_GRB + NEO_KHZ800);
-LiquidCrystal_I2C lcd(32, 16, 2); 
+Adafruit_NeoPixel singleLED(1, SINGLE_LED_PIN, NEO_GRB + NEO_KHZ800); // NEW
+
+LiquidCrystal_I2C lcd(32, 16, 2);
 
 int colorIndex = 0;
 bool reactorOn = false;
@@ -37,7 +39,9 @@ void setup() {
   pinMode(BUTTON_COLOR, INPUT_PULLUP);
 
   ring.begin();
+  singleLED.begin(); // NEW
   ring.show();
+  singleLED.show();  // NEW
 
   lcd.init();
   lcd.backlight();
@@ -72,25 +76,33 @@ void loop() {
   }
   lastColorButton = colorButton;
 
-  // Update LED ring
+  // Update LEDs
   if (reactorOn) {
     ring.setBrightness(brightness);
+    singleLED.setBrightness(brightness); // NEW
+
     for (int i = 0; i < NUMPIXELS; i++) {
       ring.setPixelColor(i, colors[colorIndex]);
     }
-    ring.show();
+    singleLED.setPixelColor(0, colors[colorIndex]); // NEW
 
-    // Update brightness percentage display
+    ring.show();
+    singleLED.show(); // NEW
+
+    // Update LCD brightness
     lcd.setCursor(0, 1);
     lcd.print("Brightness: ");
     lcd.print(brightnessPercent);
-    lcd.print("%   "); // extra spaces to clear previous chars
+    lcd.print("%   ");
   } else {
     ring.clear();
     ring.show();
-    // Clear second row to avoid leftover text
+
+    singleLED.clear();     // NEW
+    singleLED.show();      // NEW
+
     lcd.setCursor(0, 1);
-    lcd.print("                ");  // 16 spaces to clear line
+    lcd.print("                ");
   }
 
   delay(10);
