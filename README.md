@@ -7,8 +7,7 @@ Why? At first I wanted to make a iron man reactor that worked as a portable char
 <img width="1431" height="866" alt="colourbox" src="https://github.com/user-attachments/assets/eece40a8-063a-499f-b576-afca290d4437" />
 
 # Wiring
-<img width="1475" height="997" alt="lampv4" src="https://github.com/user-attachments/assets/a1d6b83a-0ae5-4528-95f7-c6c49969a552" />
-
+<img width="1768" height="1134" alt="lampv5" src="https://github.com/user-attachments/assets/d09f92c1-2e9e-426c-9785-a7f4d9859667" />
 
 # Bom
 | Item Name          | Price (USD) | Quantity | Total  | Link                                                                                                                        |
@@ -20,6 +19,7 @@ Why? At first I wanted to make a iron man reactor that worked as a portable char
 | Capacitor          | $1.18       | 1        | $1.18  | [Buy](https://www.aliexpress.com/item/1005002524973878.html)                                                                |
 | LCD screen 16x2    | $1.18       | 1        | $1.18  | [Buy](https://www.aliexpress.com/item/1005007531187322.html)                                                                |
 | ADAFruitLED        | $21.95      | 1        | $9.95  | [Buy](https://www.amazon.ca/NeoPixel-LED-Ring-Integrated-driver/dp/B00RVZSTZK/)                                             |
+| LED RING           | $10.40      | 1        | $10.40 | [Buy](https://www.amazon.ca/gp/product/B08FB14S5P/ref=ewc_pr_img_1?smid=A28JUS3SJ1A0RV&psc=1)                               |
 | wires              | $2.06       | 1        | $2.06  | [Buy](https://www.aliexpress.com/item/1005003219096948.html)                                                                |
 | breadboard         | $1.62       | 1        | $1.62  | [Buy](https://www.aliexpress.com/item/1005009458511526.html)                                                                |
 | **Final Total**    |             |          | **$46.81** |                                                                                                                             |
