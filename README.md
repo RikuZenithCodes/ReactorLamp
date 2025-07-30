@@ -22,4 +22,4 @@ Why? At first I wanted to make a iron man reactor that worked as a portable char
 | LED RING           | $10.40      | 1        | $10.40 | [Buy](https://www.amazon.ca/gp/product/B08FB14S5P/ref=ewc_pr_img_1?smid=A28JUS3SJ1A0RV&psc=1)                               |
 | wires              | $2.06       | 1        | $2.06  | [Buy](https://www.aliexpress.com/item/1005003219096948.html)                                                                |
 | breadboard         | $1.62       | 1        | $1.62  | [Buy](https://www.aliexpress.com/item/1005009458511526.html)                                                                |
-| **Final Total**    |             |          | **$46.81** |                                                                                                                             |
+| **Final Total**    |             |          | **$57.21** |                                                                                                                             |
